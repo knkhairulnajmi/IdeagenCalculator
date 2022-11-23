@@ -1,0 +1,28 @@
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.exe
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.deps.json
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.runtimeconfig.json
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.runtimeconfig.dev.json
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.dll
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.pdb
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.csproj.AssemblyReference.cache
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.AssemblyInfoInputs.cache
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.AssemblyInfo.cs
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.dll
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.pdb
+C:\Users\KNM04051\source\repos\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.genruntimeconfig.cache
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.exe
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.deps.json
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.runtimeconfig.json
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.runtimeconfig.dev.json
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.dll
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\bin\Debug\netcoreapp3.1\IdeagenCalculator.pdb
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.csproj.AssemblyReference.cache
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.AssemblyInfoInputs.cache
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.AssemblyInfo.cs
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.dll
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.pdb
+C:\Users\KNM04051\Desktop\Najmi\Ideagen Test - Khairul Najmi\IdeagenCalculator\IdeagenCalculator\obj\Debug\netcoreapp3.1\IdeagenCalculator.genruntimeconfig.cache

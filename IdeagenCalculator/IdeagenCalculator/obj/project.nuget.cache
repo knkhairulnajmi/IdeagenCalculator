@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZuDb8CrjK8t3XWuk8uT052Adsm5HFBBOEGfDpOWh2nfl4yhpcn5eZOuoz7rsI92GeHK+SAeORQK1uyagqsKIRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KNM04051\\Desktop\\Najmi\\Ideagen Test - Khairul Najmi\\IdeagenCalculator\\IdeagenCalculator\\IdeagenCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KNM04051\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
