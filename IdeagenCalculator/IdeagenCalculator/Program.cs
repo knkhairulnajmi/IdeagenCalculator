@@ -1,6 +1,6 @@
 ﻿/* SUMMARY
  Name: Khairul Najmi Mazupi
- Time Taken: 1 Hour 30 Minutes
+ Time Taken: 1 Hour 40 Minutes
  */
 using System;
 using System.Collections.Generic;
